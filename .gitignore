@@ -1,6 +1,12 @@
 # 추가
 model/
+<<<<<<< HEAD
 # 사이즈가 너무 큼, kaggle Movies dataset
+=======
+keys/
+upload/
+*.db
+>>>>>>> 4ac9e2ddbe07197aaf0e862c77b640c386337104
 credits.csv
 
 # Byte-compiled / optimized / DLL files
