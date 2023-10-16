@@ -3,6 +3,7 @@ model/
 keys/
 upload/
 *.db
+credits.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
