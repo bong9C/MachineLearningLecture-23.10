@@ -1,5 +1,8 @@
 # 추가
 model/
+keys/
+upload/
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
