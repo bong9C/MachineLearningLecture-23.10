@@ -1,8 +1,7 @@
 # 추가
 model/
-keys/
-upload/
-*.db
+# 사이즈가 너무 큼, kaggle Movies dataset
+credits.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
